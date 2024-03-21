@@ -120,4 +120,7 @@ MacOs Monterey 12.1
   expected-result: |
 Пользователь должен видеть четкое изобржание товара 
   actual-result: |
-Пользлователь видит растянутое изображение товара 
+Пользователь видит растянутое изображение товара 
+https://cdn.dummyjson.com/product-images/29/thumbnail.webp
+https://cdn.dummyjson.com/product-images/39/thumbnail.jpg
+https://cdn.dummyjson.com/product-images/70/thumbnail.jpg
