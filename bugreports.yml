@@ -95,3 +95,17 @@ MacOs Monterey 12.1
 https://cdn.dummyjson.com/product-images/29/thumbnail.webp
 https://cdn.dummyjson.com/product-images/39/thumbnail.jpg
 https://cdn.dummyjson.com/product-images/70/thumbnail.jpg
+
+- summary: |
+Заказ не оформляется
+  environment: |
+Google Chrome   Версия 122.0.6261.129 (Официальная сборка), (x86_64)
+MacOs Monterey 12.1
+  steps-to-reproduce: |
+1. Добавить товар в корзину 
+2. Нажать кнопку оформить заказ
+  expected-result: |
+Заказ успешно оформлен
+  actual-result: |
+Заказ не оформляется 
+500 Internal Server Error
