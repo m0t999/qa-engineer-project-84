@@ -82,10 +82,10 @@ bugreports:
 
   - summary: |
       Не закрывается окно после оформление заказа
-   environment: |
+    environment: |
       Google Chrome   Версия 122.0.6261.129 (Официальная сборка), (x86_64)
       MacOs Monterey 12.1
-   steps-to-reproduce: |
+    steps-to-reproduce: |
       1. Добавить товар в корзину
       2. Открыть корзину
       3. Нажать «Оформить заказ»
