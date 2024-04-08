@@ -97,7 +97,7 @@
     https://cdn.dummyjson.com/product-images/70/thumbnail.jpg
 
 - summary: |
-    Заказ не оформляется
+    Ошибка 500 при оформлении заказа
   environment: |
     Google Chrome   Версия 122.0.6261.129 (Официальная сборка), (x86_64)
     MacOs Monterey 12.1
